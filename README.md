@@ -12,4 +12,13 @@ yarn install
 yarn start
 ```
 
+Note: If you're getting an error about parcel, please try to install it globally.
+```
+yarn global add parcel-bundler
+```
+or
+```
+npm install -g parcel-bundler
+```
+
 http://localhost:1234/
